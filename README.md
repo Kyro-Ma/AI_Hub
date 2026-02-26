@@ -21,7 +21,7 @@
     - `./2026/02/2026-02-04.md`
     - `./2026/02/2026-02-05.md`
 
-<img src="ai_podcost_logo.jpg" alt="AI圈日报" width="750">
+<img src="ai_podcast_logo.jpg" alt="AI圈日报" width="750">
 
 
 
